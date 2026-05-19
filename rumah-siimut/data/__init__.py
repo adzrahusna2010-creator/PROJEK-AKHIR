@@ -1,0 +1,1 @@
+from data.rumah import Rumah
