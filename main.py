@@ -1,4 +1,4 @@
-from aktivitas import Kebersihan
+from .aktivitas import Kebersihan
 
 nama = input("Masukkan nama rumah : ")
 kebersihan = int(input("Masukkan kebersihan awal : "))
@@ -37,4 +37,3 @@ while True:
 
     else:
         print("Menu tidak tersedia")
-       
